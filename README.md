@@ -30,11 +30,11 @@ I focus on building clean, structured, and visual data solutions.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?NovaMint-Data=YOUR_NovaMint-Data&show_icons=true&theme=react" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_NovaMint-Data &theme=react" />
 </p>
 
 ---
