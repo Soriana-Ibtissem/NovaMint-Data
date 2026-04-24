@@ -30,7 +30,7 @@ I focus on building clean, structured, and visual data solutions.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soriana-Ibtissem" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NovaMint-Data" />
 </p>
 ---
 
